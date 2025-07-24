@@ -23,12 +23,20 @@ On this page you will find a list of all the technologies I have used so far, or
 - SockeIO & WebSockets
 - Alchemy SDK
 - Ethers.js
+- Lodash
+- BullMQ (queues)
+- Memcache
+- JWT, Passport
+- UUID, nanoid, moment.js
+- Sharp
+- Siwe
 
 ## Frontend
 - Redux
 - Axios
 - Styled componentes
 - Material UI
+- Bootstrap
 - Expo
 - Wallet connect, viem, wagmi
 - Three.js
@@ -46,7 +54,6 @@ On this page you will find a list of all the technologies I have used so far, or
 - Prettier
 - Eslint
 - Biome.js
-
 
 # Databases
 - PostgreSQL
@@ -82,6 +89,7 @@ On this page you will find a list of all the technologies I have used so far, or
 - Amplify
 - IAM
 - ELB
+- Redis
 
 ## Others
 - Prometheus
@@ -100,7 +108,6 @@ On this page you will find a list of all the technologies I have used so far, or
 - Alchemy
 - Shopify
 - OpenSea
-
 
 # Tools
 - Git & Github
